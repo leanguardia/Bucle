@@ -32,11 +32,11 @@ Version: 1.0
 }
 
 .slide-bg-two {
-    background: rgba(0, 0, 0, 0) url("assest/img/slider/slide-1.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("assest/img/slider/slide_2.jpg") no-repeat scroll center center / cover;
 }
 
 .slide-bg-three {
-    background: rgba(0, 0, 0, 0) url("assest/img/slider/slide_2.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("assest/img/slider/slide_3.jpg") no-repeat scroll center center / cover;
 }
 
 .welcome-slider-area .owl-controls {
